@@ -1,0 +1,37 @@
+ .container{
+     height: calc(100vh - 100px);
+     background-color: #c34729;
+ }
+ .arrowContainer{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+   
+ }
+.arrowContainer{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+
+ }
+ .arrowLContainer{
+    position: absolute;
+    width: 5%;
+    height: 19%;
+    top: 60px;
+    bottom: 0;
+    margin: auto;
+
+ }
+ .wrapper{
+    width: 82%;
+ }
+ .imgContainer{
+    margin-left: 22%;
+ }
